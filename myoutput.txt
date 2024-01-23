@@ -1,0 +1,29 @@
+R-Type Instructions:
+OpCode: 000000
+Source Register (RS): 01100
+Target Register (RT): 01101
+RD: 01011
+Shamt: 00000
+Function: 100000
+R-Address: 400000
+
+OpCode: 000000
+Source Register (RS): 01011
+Target Register (RT): 01100
+RD: 01010
+Shamt: 00000
+Function: 100000
+R-Address: 400004
+
+I-Type Instructions:
+OpCode: öÛ$7
+Source Register (RS): 00111
+Target Register (RT): 01000
+Immediate Value: ,
+Address: 400010
+
+J-Type Instructions:
+OpCode: 000010again
+Target Address: again
+Line Number: 35
+
